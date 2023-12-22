@@ -9,30 +9,35 @@ Welcome to the guided exercises for learning HTML and CSS! This repository conta
 
 - **Objective:** Create a basic HTML document structure.
 - **Key Concepts:** Doctype declaration, head, title, and body tags.
+- **Estimated Time:**  10 minutes
 - **README:** [Exercise 1 README](0.%20Hello%20HTML/README.md)
 
 ## Exercise 1: Essential HTML Tags
 
 - **Objective:** Customize the content and structure of an HTML page.
 - **Key Concepts:** Updating the title, adding headers, paragraphs, links, lists, and images.
+- **Estimated Time:**  20 minutes
 - **README:** [Exercise 2 README](1.%20Essential%20HTML%20Tags/README.md)
 
 ## Exercise 2: Exploring HTML Form Elements
 
 - **Objective:** Practice working with HTML form elements.
 - **Key Concepts:** Text fields, dropdowns, radio buttons, checkboxes, and text areas.
+- **Estimated Time:**  30 minutes
 - **README:** [Exercise 3 README](2.%20Exploring%20HTML%20Form%20Elements/README.md)
 
 ## Exercise 3: Styling with CSS
 
 - **Objective:** Apply styling to HTML elements using CSS.
 - **Key Concepts:** Text alignment, font properties, spacing, and styling a div.
+- **Estimated Time:**  20 minutes
 - **README:** [Exercise 4 README](3.%20Styling%20with%20CSS/README.md)
 
 ## Exercise 4: CSS Selectors
 
 - **Objective:** Explore and practice using CSS selectors.
 - **Key Concepts:** Selecting specific elements, classes, IDs, descendants, and more.
+- **Estimated Time:**  20 minutes
 - **README:** [Exercise 5 README](4.%20CSS%20Selectors/README.md)
 
 ## Be Creative!
