@@ -57,6 +57,7 @@ Feel free to navigate to each exercise folder for detailed instructions on the t
 
 ## How to Submit
 
+- Fork and clone the repository. You will be pushing your changes on your own fork.
 - Complete each exercise according to the instructions in the respective README files.
 - Save your changes and commit them to your local repository.
 - Push your changes to your GitHub repository.
